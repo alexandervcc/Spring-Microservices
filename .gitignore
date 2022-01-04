@@ -1,0 +1,10 @@
+/currency-conversion/.mvn/*
+/currency-conversion/target/*
+/currency-exchange/.mvn/*
+/currency-exchange/target/*
+/limits-service/.mvn/*
+/limits-service/target/*
+/naming-server/.mvn/*
+/naming-server/target/*
+/spring-cloud-config-server/.mvn/*
+/spring-cloud-config-server/target/*
