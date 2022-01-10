@@ -8,3 +8,5 @@
 /naming-server/target/*
 /spring-cloud-config-server/.mvn/*
 /spring-cloud-config-server/target/*
+/api-gateway/.mvn/*
+/api-gateway/target/*
